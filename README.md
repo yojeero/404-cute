@@ -1,7 +1,6 @@
-# 404
 <img src="preview/pic.png">
 
-### [404] is a site maintenance template. ###
+### 404 is a site maintenance template. ###
 
 ```
 Features
