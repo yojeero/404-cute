@@ -1,6 +1,6 @@
 <img src="preview/pc.webp">
 
-### 404 is a site maintenance template. ###
+### 404 is a cute site maintenance template. ###
 
 ```
 Features
