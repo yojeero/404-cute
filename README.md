@@ -1,4 +1,4 @@
-<img src="preview/pic.png">
+<img src="preview/pic.webp">
 
 ### 404 is a site maintenance template. ###
 
