@@ -1,10 +1,7 @@
-<img src="preview/pc.webp">
+<img src="view/pc.webp">
 
-### 404 - cute site maintenance ###
+### [404-cute](https://yojeero.github.io/404-cute/) - site maintenancee ###
 
-
-
-```https://yojeero.github.io/404-cute/
 
 Features
 ```
