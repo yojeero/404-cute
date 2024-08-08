@@ -2,8 +2,6 @@
 
 ### [404-cute](https://yojeero.github.io/404-cute/) - site maintenance HTML template ###
 
-
-Features
 ```
 - Clean design
 - Fully responsive layout
