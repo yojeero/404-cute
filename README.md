@@ -1,6 +1,6 @@
 <img src="view/pc.webp">
 
-### [404-cute](https://yojeero.github.io/404-cute/) - site maintenancee ###
+### [404-cute](https://yojeero.github.io/404-cute/) - site maintenance HTML template ###
 
 
 Features
