@@ -2,7 +2,7 @@
 
 ### [404-cute](https://yojeero.github.io/404-cute/) - site maintenance HTML template ###
 
-***
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 ```
 - Clean design
