@@ -1,4 +1,4 @@
-<img src="preview/view.webp">
+<img src="preview/cute_404.webp">
 
 ### [404-cute](https://yojeero.github.io/404-cute/) - site maintenance HTML template ###
 
